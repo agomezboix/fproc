@@ -2,7 +2,7 @@
 Browser fingerprint mitigation system
 
 ### Disclaimer ###
-This tool is experimental and still in development. We work on the basis of the Blink tool [Link](https://github.com/plaperdr/blink-docker).
+This tool is experimental and still in development. We work on the basis of the [Blink](https://github.com/plaperdr/blink-docker) tool.
 
 ### Requirements ###
 **Docker**, **Python 3** and **gcc** are needed to build the mitigation system.  
@@ -12,9 +12,9 @@ For Fedora: `sudo yum install python3 gcc`
 For Ubuntu/Debian: `sudo apt-get install python3 gcc`  
 
 **Docker**  
-For Fedora: [Link](https://docs.docker.com/installation/fedora/)  
-For Debian: [Link](https://docs.docker.com/installation/debian/)  
-For Ubuntu: [Link](https://docs.docker.com/installation/ubuntulinux/)  
+For Fedora: [Link](https://docs.docker.com/install/linux/docker-ce/fedora/)  
+For Debian: [Link](https://docs.docker.com/install/linux/docker-ce/debian/)  
+For Ubuntu: [Link](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
 It is recommended to have at least **2GB** of free hard drive space to install every components.
 
