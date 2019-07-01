@@ -21,7 +21,7 @@ It is recommended to have at least **2GB** of free hard drive space to install e
 ### Quick install ###
 If you want to try the system, here are 4 simple commands to get it running:
 ```
-git clone https://github.com/plaperdr/blink-docker.git
+git clone https://github.com/agomezboix/fproc.git
 cd blink-docker/
 python3 downloadFromHub.py
 python3 run.py
