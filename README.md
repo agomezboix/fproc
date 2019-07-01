@@ -22,7 +22,7 @@ It is recommended to have at least **2GB** of free hard drive space to install e
 If you want to try the system, here are 4 simple commands to get it running:
 ```
 git clone https://github.com/agomezboix/fproc.git
-cd blink-docker/
+cd fproc/
 python3 downloadFromHub.py
 python3 run.py
 ```
