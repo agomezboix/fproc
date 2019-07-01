@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ### Disclaimer ###
 This tool is experimental and still in development. We work on the basis of the Blink tool [Link](https://github.com/plaperdr/blink-docker).
@@ -47,3 +48,7 @@ Windows and MacOS are not officially supported yet.
 
 1 images is built locally during the execution
 * fproc/ubuntu-fproc
+=======
+# fproc
+Browser fingerprint mitigation system
+>>>>>>> 572a7e62f4ac14ffa202616acaac857677b4bca7
