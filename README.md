@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ### Disclaimer ###
 This tool is experimental and still in development. We work on the basis of the Blink tool [Link](https://github.com/plaperdr/blink-docker).
 
